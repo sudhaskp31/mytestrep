@@ -83,7 +83,7 @@ namespace ConsoleApp22
         }
 
    }
-
+    
     class Solution
     {
         public static void Main(string[] args)
