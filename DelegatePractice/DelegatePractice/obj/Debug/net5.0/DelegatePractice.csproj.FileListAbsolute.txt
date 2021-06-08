@@ -1,0 +1,15 @@
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\bin\Debug\net5.0\DelegatePractice.exe
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\bin\Debug\net5.0\DelegatePractice.deps.json
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\bin\Debug\net5.0\DelegatePractice.runtimeconfig.json
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\bin\Debug\net5.0\DelegatePractice.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\bin\Debug\net5.0\DelegatePractice.dll
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\bin\Debug\net5.0\ref\DelegatePractice.dll
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\bin\Debug\net5.0\DelegatePractice.pdb
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\obj\Debug\net5.0\DelegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\obj\Debug\net5.0\DelegatePractice.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\obj\Debug\net5.0\DelegatePractice.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\obj\Debug\net5.0\DelegatePractice.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\obj\Debug\net5.0\DelegatePractice.dll
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\obj\Debug\net5.0\ref\DelegatePractice.dll
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\obj\Debug\net5.0\DelegatePractice.pdb
+C:\Users\Sudha\source\repos\DelegatePractice\DelegatePractice\obj\Debug\net5.0\DelegatePractice.genruntimeconfig.cache
