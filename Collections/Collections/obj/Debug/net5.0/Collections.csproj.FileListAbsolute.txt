@@ -1,0 +1,15 @@
+C:\Users\Sudha\source\repos\Collections\Collections\bin\Debug\net5.0\Collections.exe
+C:\Users\Sudha\source\repos\Collections\Collections\bin\Debug\net5.0\Collections.deps.json
+C:\Users\Sudha\source\repos\Collections\Collections\bin\Debug\net5.0\Collections.runtimeconfig.json
+C:\Users\Sudha\source\repos\Collections\Collections\bin\Debug\net5.0\Collections.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\Collections\Collections\bin\Debug\net5.0\Collections.dll
+C:\Users\Sudha\source\repos\Collections\Collections\bin\Debug\net5.0\ref\Collections.dll
+C:\Users\Sudha\source\repos\Collections\Collections\bin\Debug\net5.0\Collections.pdb
+C:\Users\Sudha\source\repos\Collections\Collections\obj\Debug\net5.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudha\source\repos\Collections\Collections\obj\Debug\net5.0\Collections.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\Collections\Collections\obj\Debug\net5.0\Collections.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\Collections\Collections\obj\Debug\net5.0\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\Collections\Collections\obj\Debug\net5.0\Collections.dll
+C:\Users\Sudha\source\repos\Collections\Collections\obj\Debug\net5.0\ref\Collections.dll
+C:\Users\Sudha\source\repos\Collections\Collections\obj\Debug\net5.0\Collections.pdb
+C:\Users\Sudha\source\repos\Collections\Collections\obj\Debug\net5.0\Collections.genruntimeconfig.cache
