@@ -1,0 +1,12 @@
+C:\Users\Sudha\source\repos\operands\operands\bin\Debug\netcoreapp3.1\operands.exe
+C:\Users\Sudha\source\repos\operands\operands\bin\Debug\netcoreapp3.1\operands.deps.json
+C:\Users\Sudha\source\repos\operands\operands\bin\Debug\netcoreapp3.1\operands.runtimeconfig.json
+C:\Users\Sudha\source\repos\operands\operands\bin\Debug\netcoreapp3.1\operands.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\operands\operands\bin\Debug\netcoreapp3.1\operands.dll
+C:\Users\Sudha\source\repos\operands\operands\bin\Debug\netcoreapp3.1\operands.pdb
+C:\Users\Sudha\source\repos\operands\operands\obj\Debug\netcoreapp3.1\operands.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\operands\operands\obj\Debug\netcoreapp3.1\operands.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\operands\operands\obj\Debug\netcoreapp3.1\operands.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\operands\operands\obj\Debug\netcoreapp3.1\operands.dll
+C:\Users\Sudha\source\repos\operands\operands\obj\Debug\netcoreapp3.1\operands.pdb
+C:\Users\Sudha\source\repos\operands\operands\obj\Debug\netcoreapp3.1\operands.genruntimeconfig.cache
