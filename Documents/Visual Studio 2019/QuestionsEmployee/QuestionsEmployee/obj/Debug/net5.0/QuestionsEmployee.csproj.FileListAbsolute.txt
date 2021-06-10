@@ -1,0 +1,15 @@
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\bin\Debug\net5.0\QuestionsEmployee.exe
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\bin\Debug\net5.0\QuestionsEmployee.deps.json
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\bin\Debug\net5.0\QuestionsEmployee.runtimeconfig.json
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\bin\Debug\net5.0\QuestionsEmployee.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\bin\Debug\net5.0\QuestionsEmployee.dll
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\bin\Debug\net5.0\ref\QuestionsEmployee.dll
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\bin\Debug\net5.0\QuestionsEmployee.pdb
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\obj\Debug\net5.0\QuestionsEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\obj\Debug\net5.0\QuestionsEmployee.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\obj\Debug\net5.0\QuestionsEmployee.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\obj\Debug\net5.0\QuestionsEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\obj\Debug\net5.0\QuestionsEmployee.dll
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\obj\Debug\net5.0\ref\QuestionsEmployee.dll
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\obj\Debug\net5.0\QuestionsEmployee.pdb
+C:\Users\Sudha\source\repos\QuestionsEmployee\QuestionsEmployee\obj\Debug\net5.0\QuestionsEmployee.genruntimeconfig.cache

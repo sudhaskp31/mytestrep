@@ -1,0 +1,15 @@
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\bin\Debug\net5.0\Understandingrelations.exe
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\obj\Debug\net5.0\Understandingrelations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\obj\Debug\net5.0\Understandingrelations.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\obj\Debug\net5.0\Understandingrelations.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\obj\Debug\net5.0\Understandingrelations.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\obj\Debug\net5.0\Understandingrelations.dll
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\obj\Debug\net5.0\ref\Understandingrelations.dll
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\obj\Debug\net5.0\Understandingrelations.pdb
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\bin\Debug\net5.0\Understandingrelations.deps.json
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\bin\Debug\net5.0\Understandingrelations.runtimeconfig.json
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\bin\Debug\net5.0\Understandingrelations.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\bin\Debug\net5.0\Understandingrelations.dll
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\bin\Debug\net5.0\ref\Understandingrelations.dll
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\bin\Debug\net5.0\Understandingrelations.pdb
+C:\Users\Sudha\source\repos\Understandingrelations\Understandingrelations\obj\Debug\net5.0\Understandingrelations.genruntimeconfig.cache

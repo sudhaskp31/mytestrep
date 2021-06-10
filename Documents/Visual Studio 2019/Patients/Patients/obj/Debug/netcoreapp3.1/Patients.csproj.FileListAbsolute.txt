@@ -1,0 +1,13 @@
+C:\Users\Sudha\source\repos\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.exe
+C:\Users\Sudha\source\repos\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.deps.json
+C:\Users\Sudha\source\repos\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.runtimeconfig.json
+C:\Users\Sudha\source\repos\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.dll
+C:\Users\Sudha\source\repos\Patients\Patients\bin\Debug\netcoreapp3.1\Patients.pdb
+C:\Users\Sudha\source\repos\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.dll
+C:\Users\Sudha\source\repos\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.pdb
+C:\Users\Sudha\source\repos\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.genruntimeconfig.cache
+C:\Users\Sudha\source\repos\Patients\Patients\obj\Debug\netcoreapp3.1\Patients.csproj.AssemblyReference.cache

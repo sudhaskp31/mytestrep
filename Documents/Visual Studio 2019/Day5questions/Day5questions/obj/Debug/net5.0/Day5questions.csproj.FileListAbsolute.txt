@@ -1,0 +1,16 @@
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\bin\Debug\net5.0\Day5questions.exe
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\bin\Debug\net5.0\Day5questions.deps.json
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\bin\Debug\net5.0\Day5questions.runtimeconfig.json
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\bin\Debug\net5.0\Day5questions.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\bin\Debug\net5.0\Day5questions.dll
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\bin\Debug\net5.0\ref\Day5questions.dll
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\bin\Debug\net5.0\Day5questions.pdb
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\Day5questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\Day5questions.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\Day5questions.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\Day5questions.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\Day5questions.dll
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\ref\Day5questions.dll
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\Day5questions.pdb
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\Day5questions.genruntimeconfig.cache
+C:\Users\Sudha\source\repos\Day5questions\Day5questions\obj\Debug\net5.0\Day5questions.csproj.AssemblyReference.cache
