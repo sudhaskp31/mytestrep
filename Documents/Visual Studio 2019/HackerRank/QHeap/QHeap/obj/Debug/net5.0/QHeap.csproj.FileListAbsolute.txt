@@ -1,0 +1,15 @@
+C:\Users\Sudha\source\repos\QHeap\QHeap\bin\Debug\net5.0\QHeap.exe
+C:\Users\Sudha\source\repos\QHeap\QHeap\obj\Debug\net5.0\QHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudha\source\repos\QHeap\QHeap\obj\Debug\net5.0\QHeap.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\QHeap\QHeap\obj\Debug\net5.0\QHeap.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\QHeap\QHeap\obj\Debug\net5.0\QHeap.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\QHeap\QHeap\obj\Debug\net5.0\QHeap.dll
+C:\Users\Sudha\source\repos\QHeap\QHeap\obj\Debug\net5.0\ref\QHeap.dll
+C:\Users\Sudha\source\repos\QHeap\QHeap\obj\Debug\net5.0\QHeap.pdb
+C:\Users\Sudha\source\repos\QHeap\QHeap\bin\Debug\net5.0\QHeap.deps.json
+C:\Users\Sudha\source\repos\QHeap\QHeap\bin\Debug\net5.0\QHeap.runtimeconfig.json
+C:\Users\Sudha\source\repos\QHeap\QHeap\bin\Debug\net5.0\QHeap.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\QHeap\QHeap\bin\Debug\net5.0\QHeap.dll
+C:\Users\Sudha\source\repos\QHeap\QHeap\bin\Debug\net5.0\ref\QHeap.dll
+C:\Users\Sudha\source\repos\QHeap\QHeap\bin\Debug\net5.0\QHeap.pdb
+C:\Users\Sudha\source\repos\QHeap\QHeap\obj\Debug\net5.0\QHeap.genruntimeconfig.cache

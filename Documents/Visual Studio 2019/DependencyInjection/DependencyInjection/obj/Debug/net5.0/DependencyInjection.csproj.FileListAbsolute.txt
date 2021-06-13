@@ -1,0 +1,16 @@
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.exe
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.deps.json
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.runtimeconfig.json
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.runtimeconfig.dev.json
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.dll
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\bin\Debug\net5.0\ref\DependencyInjection.dll
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\bin\Debug\net5.0\DependencyInjection.pdb
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.csproj.AssemblyReference.cache
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.AssemblyInfo.cs
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.dll
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\ref\DependencyInjection.dll
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.pdb
+C:\Users\Sudha\source\repos\DependencyInjection\DependencyInjection\obj\Debug\net5.0\DependencyInjection.genruntimeconfig.cache
